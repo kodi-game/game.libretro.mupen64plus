@@ -1,4 +1,4 @@
-# Mupen64Plus OpenGL
+# Nintendo - Nintendo 64 (Mupen64Plus)
 
 ### Description
 
@@ -10,7 +10,7 @@ Unlicensed
 
 ### Icon
 
-![Mupen64Plus OpenGL icon](game.libretro.mupen64plus/resources/icon.png)
+![Nintendo - Nintendo 64 (Mupen64Plus) icon](game.libretro.mupen64plus/resources/icon.png)
 
 ### Fanart
 
