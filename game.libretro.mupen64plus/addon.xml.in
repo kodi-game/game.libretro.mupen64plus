@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mupen64plus"
 		name="Nintendo - Nintendo 64 (Mupen64Plus)"
-		version="2.5.0.43"
-		provider-name="m4xw, Hacktarux, gonetz, GLideN64 Contributors, Mupen64Plus Team">
+		version="2.5.0.1"
+		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.n64" version="1.0.0"/>
@@ -10,20 +10,20 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Nintendo 64</platforms>
-		<extensions>n64|v64|z64|bin|u1</extensions>
+		<extensions>n64|v64|z64|bin|u1|ndd</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>true</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<license>GPLv2</license>
+		<license>Unlicensed</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mupen64plus</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
-		<summary lang="en_GB">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
+		<summary lang="en_GB">Mupen64Plus OpenGL</summary>
 		<summary lang="es_ES">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
 		<summary lang="zh_CN">任天堂 - Nintendo 64 (Mupen64Plus)</summary>
 		<description lang="da_DK">Mupen64 er en N64-emulator designet til at være multi-OS. Den bruger et plugin-system og er yderst kompatibel.</description>

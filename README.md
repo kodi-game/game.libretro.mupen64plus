@@ -1,4 +1,4 @@
-# Nintendo - Nintendo 64 (Mupen64Plus-Next)
+# Nintendo - Nintendo 64 (Mupen64Plus)
 
 ### Description
 
@@ -6,11 +6,11 @@ Mupen64 is an N64 emulator desgined to be multi-OS. It uses a plugin system and 
 
 ### License
 
-GPLv2
+Unlicensed
 
 ### Icon
 
-![Nintendo - Nintendo 64 (Mupen64Plus-Next) icon](game.libretro.mupen64plus-nx/resources/icon.png)
+![Nintendo - Nintendo 64 (Mupen64Plus) icon](game.libretro.mupen64plus/resources/icon.png)
 
 ### Fanart
 
