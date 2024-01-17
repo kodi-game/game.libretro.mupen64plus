@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mupen64plus"
-		name="Nintendo - Nintendo 64 (Mupen64Plus)"
-		version="2.6.0.15"
+		name="Nintendo - Nintendo 64 (Mupen64Plus-Next)"
+		version="2.6.0.16"
 		provider-name="m4xw, Hacktarux, gonetz, GLideN64 Contributors, Mupen64Plus Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -23,7 +23,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
-		<summary lang="en_GB">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
+		<summary lang="en_GB">Nintendo - Nintendo 64 (Mupen64Plus-Next)</summary>
 		<summary lang="es_ES">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
 		<summary lang="zh_CN">任天堂 - Nintendo 64 (Mupen64Plus)</summary>
 		<description lang="da_DK">Mupen64 er en N64-emulator designet til at være multi-OS. Den bruger et plugin-system og er yderst kompatibel.</description>

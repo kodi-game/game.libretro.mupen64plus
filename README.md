@@ -1,4 +1,4 @@
-# Nintendo - Nintendo 64 (Mupen64Plus)
+# Nintendo - Nintendo 64 (Mupen64Plus-Next)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Nintendo - Nintendo 64 (Mupen64Plus) icon](game.libretro.mupen64plus/resources/icon.png)
+![Nintendo - Nintendo 64 (Mupen64Plus-Next) icon](game.libretro.mupen64plus/resources/icon.png)
 
 ### Fanart
 
