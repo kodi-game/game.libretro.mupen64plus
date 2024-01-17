@@ -1,10 +1,10 @@
-# game.libretro.mupen64plus-nx language file
-# Addon Name: game.libretro.mupen64plus-nx
-# Addon id: game.libretro.mupen64plus-nx
+# game.libretro.mupen64plus language file
+# Addon Name: game.libretro.mupen64plus
+# Addon id: game.libretro.mupen64plus
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.mupen64plus-nx\n"
+"Project-Id-Version: game.libretro.mupen64plus\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
 "PO-Revision-Date: 2017-02-04 09:56i\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Nintendo 64 (Mupen64Plus)"
+msgid "Nintendo - Nintendo 64 (Mupen64Plus-Next)"
 msgstr ""
 
 msgctxt "Addon Description"
