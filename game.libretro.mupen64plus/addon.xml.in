@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<lifecycle type="broken" lang="en_GB">This add-on has been renamed.</lifecycle>
 		<summary lang="da_DK">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
 		<summary lang="en_GB">Nintendo - Nintendo 64 (Mupen64Plus-Next)</summary>
 		<summary lang="es_ES">Nintendo - Nintendo 64 (Mupen64Plus)</summary>
@@ -31,5 +32,6 @@
 		<description lang="en_GB">Mupen64 is an N64 emulator desgined to be multi-OS. It uses a plugin system and is highly compatible.</description>
 		<description lang="es_ES">Mupen64 es un emulador de N64 diseñado para ser multi-OS. Utiliza un sistema de plugins y es altamente compatible.</description>
 		<description lang="zh_CN">Mupen64 是一款设计为多操作系统的 N64 模拟器。它使用插件系统，并且高度兼容。</description>
+		<lifecyclestate type="broken" lang="en_GB">This add-on has been renamed.</lifecyclestate>
 	</extension>
 </addon>
